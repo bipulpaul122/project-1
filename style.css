@@ -17,6 +17,7 @@ header{
 	margin: 0 auto;
 	width: 90%;
 	overflow: hidden;
+	text-align: center;
 
 }
 .logo{
@@ -116,7 +117,7 @@ header{
 .a_left p{	;
 	margin: 0 0 0 70px;
 	line-height:30px;
-	text-align: right;
+	text-align: center;
 	
 
 
@@ -166,13 +167,13 @@ header{
 }
 .f_h2{
 	margin: 15px 0 ;
-	font-size: 25px;
+	font-size: 35px;
 	color:#0f2656;
 
 }
 .f_p{
 	margin: 0;
-	line-height: 25px;
+	line-height: 30px;
 }
 
 
@@ -187,16 +188,17 @@ footer{
 	
 }
 .ft{
-	padding: 5px 0 0;
+	padding: 20px 0 0;
 	background-color: #008aff ;
 }
 .ft h6{
-	margin: 35px 0 0;
+	margin: 15px 0 0;
 	text-align: center;
 	color: #9ed2ff;
+	font-size: 15px;
 }
 .ft span{
-	letter-spacing: 3px;
+	letter-spacing: 5px;
 	color: #ffffff;
 
 }
